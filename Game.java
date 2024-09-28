@@ -15,7 +15,7 @@ public class Game {
 
         System.out.println("Welcome to the Number Guessing Game!");
         System.out.println("I'm thinking of a number between 1 and 100.");
-        System.out.println("Can you guess what it is?");
+        System.out.println("what it is?");
 
         // Loop until the user guesses correctly
         while (guess != numberToGuess) {
